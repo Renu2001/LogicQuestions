@@ -1,0 +1,14 @@
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\bin\Debug\net6.0\LOgic_Question.exe
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\bin\Debug\net6.0\LOgic_Question.deps.json
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\bin\Debug\net6.0\LOgic_Question.runtimeconfig.json
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\bin\Debug\net6.0\LOgic_Question.dll
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\bin\Debug\net6.0\LOgic_Question.pdb
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\LOgic_Question.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\LOgic_Question.AssemblyInfoInputs.cache
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\LOgic_Question.AssemblyInfo.cs
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\LOgic_Question.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\LOgic_Question.dll
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\refint\LOgic_Question.dll
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\LOgic_Question.pdb
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\LOgic_Question.genruntimeconfig.cache
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\ref\LOgic_Question.dll
