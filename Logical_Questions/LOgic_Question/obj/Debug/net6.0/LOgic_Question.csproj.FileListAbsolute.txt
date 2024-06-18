@@ -12,3 +12,4 @@ D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\refint\LOg
 D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\LOgic_Question.pdb
 D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\LOgic_Question.genruntimeconfig.cache
 D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\ref\LOgic_Question.dll
+D:\BRIDGELABZ\Logic\Logical_Questions\LOgic_Question\obj\Debug\net6.0\LOgic_Question.sourcelink.json
