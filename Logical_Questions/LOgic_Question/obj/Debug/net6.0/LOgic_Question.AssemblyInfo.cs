@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LOgic_Question")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+273f690a3f4545d213b5372879e6dac8138c8b81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c80553af707052ad94de5d683ee04e6cd99f2a25")]
 [assembly: System.Reflection.AssemblyProductAttribute("LOgic_Question")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LOgic_Question")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
